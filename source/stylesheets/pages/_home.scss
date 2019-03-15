@@ -9,6 +9,18 @@
   }
 }
 
+.ulule-banner {
+  background-color: $kids;
+  color: white;
+  display: block;
+  text-align: center;
+  padding: 30px 0;
+  font-family: $header-font;
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 22px;
+}
+
 .home-banner {
   display: flex;
   align-items: center;
